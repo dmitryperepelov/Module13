@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Task13_6_1": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../Text1.txt"
+    }
+  }
+}
